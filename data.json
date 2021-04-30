@@ -1,0 +1,441 @@
+{
+    "HomePages": [     
+          {
+            "header": "Main Menu",
+            "paragraph":[
+              { "p" : "Objectives of DCA" ,"link": "../dca"},
+              { "p" : "Organisational Setup","link": "../Orgnisational"},
+              {"p" : "Citizen Charter","link": "../citizen"},
+              { "p" : "Client's Charter","link": "../clients"},
+              {"p" : "Statute Implemented","link": "../statute"},
+              { "p" : "How To Apply","link": "../howToApply"},
+              {"p" : "Performance of DCA","link": "../performanceDca"},
+              {"p" : "Archive for flash news","link": "../news"},
+              {"p" : "Sitemap","link": "../Sitemap"}
+            ]
+          },
+          {
+            "header": "Public Services",
+            "paragraph":[
+              { "p" : "Blood Banks","link": "../BloodBanks"},
+              {"p" : "Application Forms","link": "./ApplicationsForms"},
+              { "p" : "Banned Drugs","link": "../BannedDrugs"},
+              {"p" : " NSQ Drugs","link": "http://apdca.ap.gov.in/Nsq_Drug_publicReport.jsp"},
+              { "p" : " Medical Stores","link": "http://apdca.ap.gov.in/Nsq_Drug_publicReport.jsp"},
+              {"p" : "Jeevandhara","link": "../Jeevandhra"},
+              { "p" : " Medical shops in Govt Hospitals","link": "../GvtHospitals"},
+              {"p" : "Related Links","link": "../relatedLinks"}
+            ]
+          }     
+        ],
+    "Content": [
+        {
+          "header":"VISION: ",
+          "p":"'TO PROTECT THE HEALTH OF THE PUBLIC'"
+        },
+        {
+          "header":"MISSION: ",
+          "p":"'TO ENSURE AVAILABILITY OF EFFICACIOUS AND QUALITY DRUGS AT AFFORDABLE PRICES AS FIXED BY THE CENTRAL GOVERNMENT TO THE PUBLIC AND TO MAKE THE STATE OF ANDHRA PRADESH FREE OF SPURIOUS DRUGS'"
+        }
+    ],
+    "Notifications" : [
+      { "link" : "../assests/details",
+        "content": "Prohibition Of 328 Fixed Dose Combinations By The Central Government vide Gazeette notification nos.S.O. 4706(E)"}
+    ],
+   
+    "About" : [
+      {
+      "heading" : "About US",
+      "header" : "Introduction to Drugs Control Administration",
+      "paragraph" : [
+        {
+        "p" : " The Drugs Control Administration at the time of inception in the year 1952 was functioning in the Directorate of medical services. The first basic level functionaries sanctioned to this Department were four Drugs Inspectors for implementation of the Drugs and Cosmetics Act, 1940 and Rules made there under (formerly called as The Drugs Act, 1940 and The Drugs Rules 1945) in the erstwhile Andhra State for implementation in Andhra area only. After the formation of separate Andhra Pradesh State in the year 1956 four more Drugs Inspectors were appointed and implementation of this Statute was extended to Telangana Area also."
+      },
+      {"p": "Subsequently, Drugs Control Administration was also entrusted with the enforcement of Prevention of Food Adulteration Act and the Head of the Department was designated as Drugs Controller and Food Health Authority. In the year 1981 the Department of Drugs Control Administration was accorded independent status with a separate Directorate headed by a Director functioning under the Ministry of Medical and Health, Government of Andhra Pradesh."},
+      {"p" : "The main objective of Drugs Control Administration is to ensure that the drugs that are made available to the people, who use them for prevention, mitigation or treatment of diseases are of the required standards of quality, purity and strength and are packed in containers giving all necessary information about the drug and its manufacturer, Drugs Control Administration regulates the manufacture, sale and distribution of drugs in the State."}
+      ]
+      }
+    ],
+    "Services" : [{
+      "heading" : "Services Offered",
+      "detailservices" : [ {
+        "header": "Services Offered By Drugs Control Administration:" ,
+        "paragraph": [
+          {"p":"Information on Licensed Blood Banks."},
+          {"p":"Information on Banned Drugs."},
+          {"p":"Information on Prices of notified drugs."},
+          {"p":"Information on drugs about contra-Indications, doses etc."},
+          {"p":"Complaints on services of chemists and druggists."},
+          {"p":"Grant & renewal of licenses for manufacture & sale of Drugs & cosmetics"},
+          {"p":"Issue of GMP, WHO-GMP, COPP certificates "},
+          {"p":"Issue of Test License to manufacture drugs for examination, analysis."},
+          {"p":"Issue of free sale, market standing, performance, for non conviction certificates"}    
+        ]
+      },
+      {
+        "header": "Citizens can help us serve better by:" ,
+        "paragraph": [
+          {"p":"Consulting  a qualified  doctor and using drugs as per his advise only."},
+          {"p":"Purchasing medicine from licensed medical shops and insisting for bills  "},
+          {"p":"In case of non availability of any drug ,informing nearest officer of Drugs Control Administration for taking further action"},
+          {"p":"Looking for date of expiry printed on the label of the drug and if any discrepancy  is found, reporting  to us  for taking necessary action."},
+          {"p":"Complaints on services of chemists and druggists."},
+          {"p":"Showing the Drug purchase bill by you to your Doctor for verification and guidance"}                
+        ]
+      }
+      ]
+
+    }
+    ],
+
+    "Rti" : [{
+      "heading": " RTI ACT",
+      "header": "Right to Information Act",
+      "paragraph" : "The information pertaining to Drugs Control Administration at Headquarters level is provided in this book let. The information pertaining to the other offices viz., Assistant Director & Drugs Inspectors is provided by the respective officers. The information as mentioned at para 1.3 above and as stipulated in the Right to Information act is provided item wise in different chapters. The reference made to certain Rules, Manuals and Acts of other Departments issued by Government of Andhra Pradesh or Government of India are quoted since they are applicable to the programmes/terms under reference and available with the concerned Departments." 
+    }
+    ],
+
+    "Licenses" : [
+      {
+        "heading" : "Procedure for Licenses",
+        "p": "Online Application Procedure for Sales License and Manufacturing License",
+        "header" : "File:",
+        "link" : "./assets/DOCS/Online Application Procedure for Sales License and Manufacturing License.pdf",
+        "description": " Online Application Procedure for Sales License and Manufacturing License.pdf"
+      }
+    ],
+    
+   
+    "OnlineLicenses" : [
+      {
+        "heading" : "Online Sales Licensing System",
+        "p": "Online Sales Licensing System",
+        "header" : "File:",
+        "content" :[ 
+          {"link" : "http://dmla.nic.in/",
+            "description": "DMLA"},
+            {"link" : "http://idmla.nic.in/",
+              "description": "IDMLA "},
+              {"link" : "http://apdca.ap.gov.in/",
+                "description": "SLS"}
+        ]
+      }
+    ],
+
+    "Organisational" : [
+      {
+        "heading" : "Organisational Setup",
+        "p": "Submitted by DCA on Mon, 11/20/2017 - 11:56",
+        "header" : "File:",
+        "link" : "./assets/DOCS/Organization chart AP DCA.pdf",
+        "description": " Organization chart AP DCA.pdf"
+      }
+    ],
+    "Citizens" : [
+      {
+        "heading" : "Citizen Charter",
+        "p": "Submitted by DCA on Mon, 11/20/2017 - 12:00",
+        "header" : "File:",
+        "link" : "./assets/DOCS/Citizendca[1]-LATEST.pdf",
+        "description": " Citizendca[1]-LATEST.pdf"
+      }
+    ],
+    "Performance" : [
+      {
+        "heading" : "Performance of DCA",        
+        "p": "Submitted by DCA on Wed, 11/22/2017 - 15:36",
+        "header" : "File:",
+        "link" : "./assets/DOCS/Performance of DCA during last 3 years.pdf",
+        "description": " Performance of DCA during last 3 years.pdf"
+      }
+    ],
+    "Sitemap" : [
+      {
+        "heading" : "Sitemap",
+        "p": "Front page",
+        "header" : "File:",
+        "link" : "./assests/link",
+        "description": " Front page of Government of Andhra pradesh ఔషథ నియంత్రణ పరిపాలన (DCA) "
+      }
+    ],
+    "Objectives" : [{
+      "heading" : "Objectives of DCA",
+      "detailservices" : [ 
+        {
+          "header": "The Drug Includes:" ,
+          "paragraph": [
+            {"p":" All medicines for internal or external use of human beings or animals and all substances intended to be used for or in the diagnosis, treatment, mitigation or prevention of any disease or disorder in human beings or animals, including preparations applied on human body for the purpose of repelling insects like mosquitoes  "},
+            {"p": "such substances (other than food ) intended to affect the structure or any function of the human body or intended to be used for the destruction of [vermin] or insects which cause disease in human beings or animals, as may be specified from time to time by the Central Government by notification in the Official Gazette."},
+            {"p":" all substances intended for use as components of a drug including empty gelatin capsules; and"},
+            {"p":" such devices intended for internal or external use in the diagnosis, treatment, mitigation or prevention of disease or disorder in human beings or animals, as may be specified from time to time by the Central Government by notification in the Official Gazette, after consultation with the Board "}      ]
+        },
+         {
+        "header": "Drugs regulated By Drugs Control Administration:" ,
+        "paragraph": [
+          {"p":"Allopathic Drugs"},
+          {"p":" Blood, Blood components, Blood Products"},
+          {"p":"Medical Devices"}      ]
+      },
+      {
+        "header": "Objective of the Drugs Control Administration:" ,
+        "paragraph": [
+          {"p":" To ensure safety, efficacy, purity and quality of Drugs."},
+          {"p":" To prevent consumers from self-medication. "},
+          {"p":" To ensure availability of drugs at authorised prices."},
+          {"p":" To create an awareness about the importance of proper storage of drugs."},
+          {"p":" To eliminate irrational combinations /banned drugs. "},
+          {"p":" To study the problems and suggestions made by the stakeholder."},
+          {"p":" To collect the information in general about the drug trade and take necessary steps. "},
+          {"p":" To prepare policy regarding drug matter."},
+          {"p":" To prevent misuse of Narcotics drugs."}  
+ 
+        ]
+      }
+      ]}],
+      "Clients" : [{
+        "heading" : " CLIENT’S CHARTER",
+        "detailservices" : [ 
+          {
+            "header": "The Drug Includes:" ,
+            "paragraph": [
+              {"p":" All medicines for internal or external use of human beings or animals and all substances intended to be used for or in the diagnosis, treatment, mitigation or prevention of any disease or disorder in human beings or animals, including preparations applied on human body for the purpose of repelling insects like mosquitoes  "},
+              {"p": "such substances (other than food ) intended to affect the structure or any function of the human body or intended to be used for the destruction of [vermin] or insects which cause disease in human beings or animals, as may be specified from time to time by the Central Government by notification in the Official Gazette."},
+              {"p":" all substances intended for use as components of a drug including empty gelatin capsules; and"},
+              {"p":" such devices intended for internal or external use in the diagnosis, treatment, mitigation or prevention of disease or disorder in human beings or animals, as may be specified from time to time by the Central Government by notification in the Official Gazette, after consultation with the Board "}      ]
+          },     
+          {
+          "header": "Drugs regulated By Drugs Control Administration:" ,
+          "paragraph": [
+            {"p":"Allopathic Drugs"},
+            {"p":" Blood, Blood components, Blood Products"},
+            {"p":"Medical Devices"}      ]
+        }
+        ]}],
+
+        "Statue" : [
+          {
+            "heading" : "Statue Implemented",
+            "p": "Statutes Implemented by Drugs Control Administration",
+            "header" : "File:",
+            "content" :[ 
+              {"link" : "./assets/DOCS/d&c act.pdf",
+                "description": "d&c act.pdf"},
+                {"link" : "./assets/DOCS/D&Cact2008Amendment.pdf",
+                  "description": "D&Cact2008Amendment.pdf "},
+                  {"link" : "./assets/DOCS/Narcotic-Drugs-Psychotropic-Substances-Act-1985.pdf",
+                    "description": "Narcotic-Drugs-Psychotropic-Substances-Act-1985.pdf"},
+                    {"link" : "./assets/DOCS/Narcotics-Drugs-Psychotropic-Substances-Rules-1987.pdf",
+                      "description": "Narcotics-Drugs-Psychotropic-Substances-Rules-1987.pdf "},
+                      {"link" : "./assets/DOCS/COTA-Act.pdf",
+                        "description": "COTA-Act.pdf "},
+                        {"link" : "./assets/DOCS/Drugs_PriceControl_Order,1995.pdf",
+                          "description": "Drugs_PriceControl_Order,1995.pdff"}
+                
+              ]
+          }
+        ],
+        "News" : [
+          {
+            "heading" : "Archive for flash news",
+            "p": "Statutes Implemented by Drugs Control Administration",
+            "header" : "File:",
+            "content" :[ 
+              {"link" : "./assests/link",
+                "description": "d&c act.pdf"},
+                {"link" : "./assests/link",
+                  "description": "D&Cact2008Amendment.pdf "},
+                  {"link" : "./assests/link",
+                    "description": "Narcotic-Drugs-Psychotropic-Substances-Act-1985.pdf"},
+                    {"link" : "./assests/link",
+                      "description": "Narcotics-Drugs-Psychotropic-Substances-Rules-1987.pdf "},
+                      {"link" : "./assests/link",
+                        "description": "COTA-Act.pdf "},
+                        {"link" : "./assests/link",
+                          "description": "Drugs_PriceControl_Order,1995.pdff"}
+                
+              ]
+          }
+        ],
+        "Apply" : [{
+          "heading" : " How To Apply",
+          "detailservices" : [ 
+            {
+              "header": "Sales & NDPS Licenses" ,
+              "paragraph": [
+                {"p":"Grant or Renewal of Manufacturing Licenses"}   ]},    
+            {
+            "header": "Manufacturing Licenses" ,
+            "paragraph": [
+              {"p":"Allopathic Drugs"},
+              {"p":" Blood, Blood components, Blood Products"},
+              {"p":"Medical Devices"}      ]
+          }
+          ]}],
+
+          "BloodBanks" : [
+            {
+              "heading" : "Blood Banks",
+              "p": "Blood Banks and Manufacturing units",
+              "content" :[ 
+                {"link" : "./assets/DOCS/Blood Banks list for DCA site.pdf",
+                  "description": "Blood Banks in AP"},
+                  {"link" : "./assets/DOCS/BLOOD STORAGE CENTRE IN ANDHRA PRADESH_0.pdf",
+                    "description": "Blood storage centers in AP "},
+                    {"link" : "./assets/DOCS/MFG LIST_0_1.pdf",
+                      "description": "Manufacturing units in A.P"}
+                      
+                ]
+            }
+          ],
+          "ApplicationForms" : [
+            {
+              "heading" : "Application Forms",
+              
+              "header": "Application Forms",
+              "content" :[ 
+                {"link" : "./assests/link",
+                  "description": "Form14A:  Application for submitting sample for analysis"},
+                  {"link" : "./assests/link",
+                    "description": " FORM No.19: Application for Retail/Wholesale Licenses"},
+                    {"link" : "./assests/link",
+                      "description": "FORM No.19C: Application for Schedule X drugs"},
+                      {"link" : "./assests/link",
+                        "description": " FORM No.24: Application for fresh Mfg License in 25"},
+                        {"link" : "./assests/link",
+                          "description": " FORM No.24 A: Application for loan license mfg"},
+                          {"link" : "./assests/link",
+                            "description": " FORM No.24 B: Application for Repacking license"},
+                            {"link" : "./assests/link",
+                              "description": " FORM No.24 E: Application for Loan license Ayurveda/Sidha/Unani drugs"},
+                              {"link" : "./assests/link",
+                                "description": " FORM No.24 F: Application for mfg license Schedule X drugs"},
+                                {"link" : "./assests/link",
+                                  "description": " FORM No.27: Application for fresh/renewal mfg license in 28"}
+                      
+                ]
+            }
+          ],
+          "BannedDrugs" : [{
+            "heading" : "Banned Drugs",
+            "header":"The following are list of the Drugs, Banned by Govt. of India. If any one found these drugs in the market please inform the nearest Drugs Control Officer.",
+            "detailservices" : [ 
+              {
+                "header": "G.S.R. No. 578 (E) dt 23-07-1983" ,
+                "paragraph": [
+                  {"p":"  Amidopyrine. "},
+                  {"p": "Fixed dose combinations of vitamins with anti-inflammatory agents and tranquilizers."},
+                  {"p":" Fixed dose combinations of Atropine and Analgesic and Antipyretics."},
+                  {"p":" Fixed dose combinations of Strychnine and Caffeine in tonics."}      ]
+              },
+               {
+              "header": "G.S.R. No. 793 (E) dt 13-12-1995" ,
+              "paragraph": [
+                {"p":"Fixed dose combinations of Hydroxyquinoline group of drugs with any other drug except for preparations meant for external use only."}
+                
+                    ]
+            },
+            {
+              "header": "G.S.R. No. 1057 (E) dt 03-11-1988" ,
+              "paragraph": [
+                {"p":"  Fixed dose combinations of Corticosteroid with any other drug for internal use except for preparations meant for meter dose inhalers and dry powder inhalers.[Substituted vide GSR 738 (E) dated 9.10.2009] "},
+                {"p":"   Fixed dose combinations of Chloramphenicol with any other drug for internal use."}            
+               ]
+            }
+            ]}],
+
+
+
+            "Medicalgvt" : [
+              {
+                "heading" : "List of Medical Shops in Govt Hospitals",
+                "p": "List of Medical Shops in Govt hospitals",
+                "content" :[ {
+                  "header": "LIST OF MEDICAL SHOPS IN THE PREMISES OF GOVERNMENT HOSPITALS IN A.P.",
+                  "heading": [
+                    {"h1" : "S.No",
+                    "h2":"Area",
+                "h3":"Name & Address of the Shop",
+                         "h4":"District"}],
+         "Paragraph": [
+            {"p1" : "1"                  ,
+            "p2":"Area Hospial Compound, Madanapalli, Chittoor.",
+            "p3":"M/s.Sanjjeevani Pharmacy, Area Hospital Compound, Madanapalli, Chittoor Dist.",
+            "p4":"Chittoor"},
+            {"p1" : "2"                  ,
+              "p2":"District Head Quarters Hospital Compound, Chittoor.",
+              "p3":"M/s.Sanjeevani Pharmacy, District Head Quarters Hospital Compound, Chittoor Post, Chittoor Dist.",
+              "p4":"Chittoor"}
+            , {"p1" : "3"                  ,
+              "p2":"Government. General Hospital premises, Kakinada",
+              "p3":"M/s Janaoushadi (A Unit of Zilla Samaikya), Government. General Hospital premises, Kakinada",
+              "p4":"E.G.District"},
+              {"p1" : "4"                  ,
+                "p2":" Dist. Head Quarters Hospital Premises, Rajahmundry",
+                "p3":"M/s Janaoushadi Generic Medical Shop (A Unit of Zilla Samaikya), Dist. Head Quarters Hospital Premises, Rajahmundry",
+                "p4":"E.G.District"},
+                {"p1" : "5",
+                  "p2":"Area Hospital Premises, K.N.F Road, Amalapuram, E.G. Dist. ",
+                  "p3":" M/s Janaoushadi Generic Medical Shop (A Unit of Zilla Samaikya), Area Hospital Premises, K.N.F Road, Amalapuram, E.G. Dist.",
+                  "p4":"E.G.District "},
+                  {"p1" : " 6",
+                    "p2":" G.G.H Guntur",
+                    "p3":"M/s Jeevandhara (generic) Medical Shop, Government General Hospital Compound, Guntur ",
+                    "p4":"Guntur "},
+                    {"p1" : "7",
+                      "p2":" RIMS General Hospital, Kadapa. ",
+                      "p3":"M/s.Jeevandara Drug Depot, I.P.Block, Rims General Hospital, Kadapa, YSR Dist. ",
+                      "p4":"Kadapa "},
+                      {"p1" : " 8",
+                        "p2":" Government Head Quarters Hospital, Karimnagar.",
+                        "p3":" M/s Jeevana Jyothi Medical Stores, Government Head Quarters Hospital Karimnagar",
+                        "p4":" Karimnagar"},
+                        {"p1" : " 9",
+                          "p2":" Government General Hospital, Kurnool.",
+                          "p3":" M/s.Jeevandhara Pharmacy -3, (Chemists & Druggists), D.No.46-14, Superspeciality Block, Government General Hospital, Kurnool.",
+                          "p4":" Kurnool"},
+                          {"p1" : "10 ",
+                            "p2":" Government General Hospital, Kurnool.",
+                            "p3":" M/s.Jeevandhara Pharmacy (Sthree Shakthi Pattana Mahila Sahakara Podupu Samakya), D.No.46/14, Government General Hospital, Kurnool.",
+                            "p4":" Kurnool"},
+                            {"p1" : " 11",
+                              "p2":" R.I.M.S Hospital, Ongole",
+                              "p3":"M/s Jeevandhara Drug Stores, security post room, c/o R.I.M.S Hospital campus, Ongole, Prakasham (Dist.) ",
+                              "p4":"Prakasham "},
+                              {"p1" : "12",
+                                "p2":"Government ENT Hospital, Visakhapatnam ",
+                                "p3":" M/s.Jeevandhara Pharmacy, Room No.16, Government ENT Hospital Premises, Ground Floor, Chinavalteru, Visakhapatnam.",
+                                "p4":" Visakhapatnam"},
+                                {"p1" : " 13",
+                                  "p2":" KGH, Visakhapatnam",
+                                  "p3":" M/s.Jeevandhara Sanjeevani Pharmacy (A unit of SHGS Sankshema Sangham, Zilla Samakya, Beside Government Doctors Association Building, KGH Premises, Maharanipet, Visakhapatnam.",
+                                  "p4":" Visakhapatnam "},
+                                  {"p1" : " 14 ",
+                                    "p2":" KGH, Visakhapatnam",
+                                    "p3":" M/s.Nizams Chemists & Druggists, Bhavnagar, KGH Premises, Visakhapatnam. ",
+                                    "p4":" Visakhapatnam"},
+                                    {"p1" : " 15",
+                                      "p2":" NTR Area Hospital",
+                                      "p3":" M/s.Jeevandhara Pharmacy (A unit of SHGS Sameksha Sangham Z.S), Anakapalli, Visakhapatnam.",
+                                      "p4":"Visakhapatnam "},
+                                      {"p1" : "16",
+                                        "p2":" Government Area Hospital, Visakhapatnam.",
+                                        "p3":" M/s.Jeevandhara Pharmacy, Government Area Hospital Premises, NH5, Aganampudi, Gajuwaka, Visakhapatnam.",
+                                        "p4":"Visakhapatnam "},
+                                        {"p1" : " 17",
+                                          "p2":" Government. General Head Quarters Hospital, Eluru.",
+                                          "p3":" M/s.Sanjeevani Medical and General Stores, in the premises of Government General Head Quarters, Near Casuality, Adjacent to Drivers Rest room, Eluru, W.G.Dist.",
+                                          "p4":"W.G.District. "}                    
+                ]
+              }
+            ]
+          }]
+        
+
+    }
+    
+    
+    
+    
+    
+    
+    

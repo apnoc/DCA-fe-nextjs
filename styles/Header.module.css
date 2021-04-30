@@ -1,0 +1,48 @@
+.box {
+  display: flex;
+  justify-content: space-between;    
+}
+.selected {
+  text-align: center;
+}
+
+.Header__Section{
+  background-color: #007CBA;
+}
+
+
+.navbar{
+  font-weight: 400;
+  color:#007CBA !important;
+  background: linear-gradient(-90deg,  #197daf, #5690ad); 
+}
+
+
+.navbarnav .navlink {
+  color:#fff !important;
+  font-weight:bold;
+  font-size:600;
+
+}
+
+ .navbarnav .navlink:hover{
+  color:#007CBA !important;
+  background-color:#fff ;
+  border-radius: 0.5rem;
+}
+
+
+
+.images__1{
+width:100rem;
+ border-radius:50rem; 
+}
+
+
+
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}
